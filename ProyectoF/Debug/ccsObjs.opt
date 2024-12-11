@@ -1,0 +1,10 @@
+"./BMP280_I2C.obj"
+"./Motor.obj"
+"./dht_11.obj"
+"./keypad.obj"
+"./main.obj"
+"./pwm_Luz.obj"
+"./tm4c1292ncpdt_startup_ccs.obj"
+"../tm4c1292ncpdt.cmd"
+-llibc.a
+-l"C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/ccs/Debug/driverlib.lib"
